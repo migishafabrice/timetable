@@ -1,0 +1,6 @@
+TRAINERS
+
+01, 	MIGISHA Fabrice, 	Friday
+02, 	MUKUNZI Maurice, 	Monday
+03, 	UWUMUKIZA M.Josee, 	Wenesday
+04, 	TINDO Francois Xavier, 	Friday

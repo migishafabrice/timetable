@@ -1,0 +1,13 @@
+MODULES
+
+SFDOP401,	Intro OOP,	8, 	Computer science, 	Level IV software development, 		MIGISHA Fabrice
+SDFF401,	Fundementals,	6, 	Computer science, 	Level IV software development, 		UWUMUKIZA M.Josee
+SDDB401,	Database,	6, 	Computer science, 	Level IV software development, 		MUKUNZI Maurice
+ENGCSCIV,	English,	2, 	Computer science, 	Level IV software development, 		MIGISHA Fabrice
+ICTPWOIII,	ICT,	4, 	Public works, 	Level III Plumbing, 		MIGISHA Fabrice
+MATHCSCIII,	Mathematics,	6, 	Computer science, 	Level III CSC, 		UWUMUKIZA M.Josee
+DBCSCV,	Database,	6, 	Computer science, 	Level V Software development, 		MUKUNZI Maurice
+GFRIII,	Graphics,	4, 	Computer science, 	Level III CSC, 		UWUMUKIZA M.Josee
+ICTCA301,	Photo shop,	4, 	Computer science, 	Level III CSC, 		MIGISHA Fabrice
+ENGCSCIII,	English,	6, 	Computer science, 	Level III CSC, 		UWUMUKIZA M.Josee
+WEBV,	Web design,	6, 	Public works, 	Level III Plumbing, 		MIGISHA Fabrice

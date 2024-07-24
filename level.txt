@@ -1,0 +1,12 @@
+LEVELS
+
+LVCSCIII, 	Level III Computer application, 	Computer science
+
+LVCSCIV, 	Level IV Software development, 	Computer science
+LVCSCV, 	Level V Software development, 	Computer science
+LVMSIII, 	Level III Masonary, 	Construction
+LVMSIV, 	Level IV Masonary, 	Construction
+LVMSV, 	Level V Masonary, 	Construction
+LVPBIII, 	Level III Plumbing, 	Public works
+LVPBIV, 	Level IV Plumbing, 	Public works
+LVPBV, 	Level V Plumbing, 	Public works
